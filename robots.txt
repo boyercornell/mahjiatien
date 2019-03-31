@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aivoyokied.cpan-prc.org/sitemap.xml
